@@ -1,1 +1,1 @@
-# typechain
+# typechain ts
